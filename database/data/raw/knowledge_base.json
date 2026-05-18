@@ -1,0 +1,127 @@
+[
+  {
+    "question": "Where is my order?",
+    "answer": "You can track your order in the Orders section of your account. Orders typically take 3-5 business days to deliver. You will receive a tracking email once shipped.",
+    "category": "Shipping"
+  },
+  {
+    "question": "How do I track my package?",
+    "answer": "Once your order ships, you will receive an email with a tracking number. Use this number on our website or the carrier's website to track your package.",
+    "category": "Shipping"
+  },
+  {
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 3-5 business days. Express shipping takes 1-2 business days. International shipping takes 7-14 business days.",
+    "category": "Shipping"
+  },
+  {
+    "question": "Do you offer free shipping?",
+    "answer": "Yes! We offer free standard shipping on all orders over $50. Orders under $50 have a flat shipping fee of $5.99.",
+    "category": "Shipping"
+  },
+  {
+    "question": "Can I change my shipping address?",
+    "answer": "You can change your shipping address within 1 hour of placing the order. After that, please contact support immediately and we will try our best to help.",
+    "category": "Shipping"
+  },
+  {
+    "question": "How do I return a product?",
+    "answer": "You can return any product within 30 days of delivery. Go to Orders, select the item, and click Return. We will send you a prepaid return label via email.",
+    "category": "Returns"
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "We offer full refunds within 30 days of purchase. Refunds are processed within 5-7 business days and returned to your original payment method.",
+    "category": "Returns"
+  },
+  {
+    "question": "My item arrived damaged, what do I do?",
+    "answer": "We are sorry to hear that! Please take photos of the damaged item and contact us within 48 hours. We will send a replacement or issue a full refund immediately.",
+    "category": "Returns"
+  },
+  {
+    "question": "Can I exchange a product?",
+    "answer": "Yes, exchanges are available within 30 days. Return the original item and place a new order, or contact support for a direct exchange.",
+    "category": "Returns"
+  },
+  {
+    "question": "How do I cancel my order?",
+    "answer": "Orders can be cancelled within 1 hour of placement. Go to Orders and click Cancel. After 1 hour, the order may already be processing and cannot be cancelled.",
+    "category": "Returns"
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click Forgot Password on the login page. Enter your email address and we will send you a password reset link within 5 minutes.",
+    "category": "Account"
+  },
+  {
+    "question": "How do I update my email address?",
+    "answer": "Go to Account Settings and click Edit Profile. You can update your email address there. A verification email will be sent to confirm the change.",
+    "category": "Account"
+  },
+  {
+    "question": "How do I delete my account?",
+    "answer": "To delete your account, go to Account Settings and scroll to the bottom. Click Delete Account. Note that this action is permanent and cannot be undone.",
+    "category": "Account"
+  },
+  {
+    "question": "How do I view my order history?",
+    "answer": "Go to My Account and click Orders. You can view all past orders, their status, and download invoices from there.",
+    "category": "Account"
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, American Express, PayPal, and Apple Pay. All transactions are secured with 256-bit SSL encryption.",
+    "category": "Payment"
+  },
+  {
+    "question": "Why was my payment declined?",
+    "answer": "Payments can be declined due to insufficient funds, incorrect card details, or bank security checks. Please verify your card details or try a different payment method.",
+    "category": "Payment"
+  },
+  {
+    "question": "Is my payment information secure?",
+    "answer": "Absolutely. We use industry-standard SSL encryption and never store your full card details. All payments are processed through PCI-DSS compliant payment gateways.",
+    "category": "Payment"
+  },
+  {
+    "question": "Can I pay in installments?",
+    "answer": "Yes! We offer Buy Now Pay Later through Klarna and Afterpay. Select your preferred option at checkout for 0% interest installment plans.",
+    "category": "Payment"
+  },
+  {
+    "question": "Do your products have a warranty?",
+    "answer": "All electronics come with a 1-year manufacturer warranty. Sports and kitchen products have a 6-month warranty. Extended warranties are available at checkout.",
+    "category": "Products"
+  },
+  {
+    "question": "Are your products genuine?",
+    "answer": "Yes, all products sold on our platform are 100% genuine and sourced directly from authorized manufacturers and distributors.",
+    "category": "Products"
+  },
+  {
+    "question": "How do I know if a product is in stock?",
+    "answer": "Product availability is shown on each product page. If an item is out of stock, you can click Notify Me to receive an email when it becomes available.",
+    "category": "Products"
+  },
+  {
+    "question": "Do you have a size guide?",
+    "answer": "Yes, each clothing and footwear product has a detailed size guide. Click Size Guide on the product page for measurements and fit recommendations.",
+    "category": "Products"
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us via this chat, email at support@shop.com, or phone at 1-800-SHOP-NOW (Mon-Fri 9AM-6PM EST). Average response time is under 2 hours.",
+    "category": "Support"
+  },
+  {
+    "question": "What are your business hours?",
+    "answer": "Our customer support team is available Monday to Friday, 9AM to 6PM EST. Our AI assistant is available 24/7 for instant help.",
+    "category": "Support"
+  },
+  {
+    "question": "I have a complaint, who do I contact?",
+    "answer": "We take all complaints seriously. Please email complaints@shop.com with your order number and detailed description. A senior agent will respond within 24 hours.",
+    "category": "Support"
+  }
+]
